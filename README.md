@@ -1,6 +1,6 @@
 ![GIF FZ](https://github.com/user-attachments/assets/a3322cf7-9847-4616-936f-38cc6fa9ae4d)
 
-<h1 align="left">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst  <div style="width:100%;height:0;padding-bottom:67%;position:relative;"><img src="https://giphy.com/embed/UVNJ7x7Ul3wIbjIhkA" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/ita-forza-italia-viva-litalia-UVNJ7x7Ul3wIbjIhkA">via GIPHY</a></p></h1>
+<h1 align="left">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst  <a href="https://giphy.com/gifs/ita-forza-italia-viva-litalia-UVNJ7x7Ul3wIbjIhkA"></a></h1>
 
 ###
 
