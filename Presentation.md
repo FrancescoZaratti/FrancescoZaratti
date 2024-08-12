@@ -1,4 +1,4 @@
-<![Video senza titolo (1)](https://github.com/user-attachments/assets/ca21c388-65bb-4a23-802e-083dd077fa8a)
+![GIF FZ](https://github.com/user-attachments/assets/a3322cf7-9847-4616-936f-38cc6fa9ae4d)
 
 <h1 align="left">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst </h1>
 
