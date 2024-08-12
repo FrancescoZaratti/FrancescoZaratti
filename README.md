@@ -1,4 +1,4 @@
-<h1 align="left">Hi everywhere! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="left">Hi everywhere! \<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 My name is Francesco and I'm a Data Analyst </h1>
 
 ###
@@ -46,12 +46,13 @@ My name is Francesco and I'm a Data Analyst </h1>
 
 ###
 
+//
 <div align="left">
   <a href="https://www.linkedin.com/in/francescozaratti/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
+//
 ###
 
 <br clear="both">
