@@ -1,9 +1,6 @@
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/e8283801-2dbf-4a00-a4d5-79362437f797" />
+  <img height="200" ![Video senza titolo](https://github.com/user-attachments/assets/f3b4daa2-1ece-4822-986f-0fe11bf6300a) />
 </div>
-
-
-https://github.com/user-attachments/assets/815616b5-938e-466c-95de-713f1daec208
 
 
 ###
