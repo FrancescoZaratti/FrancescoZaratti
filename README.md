@@ -1,3 +1,5 @@
+![GIF FZ](https://github.com/user-attachments/assets/b657e005-a5a3-489d-a2b2-fca8ee7e15f4)
+
 <h1 align="left">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst </h1>
 
 ###
