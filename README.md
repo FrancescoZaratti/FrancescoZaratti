@@ -1,6 +1,10 @@
-![GIF FZ](https://github.com/user-attachments/assets/a3322cf7-9847-4616-936f-38cc6fa9ae4d)
+<div align="center">
+  <img height="200" src="https://github.com/user-attachments/assets/e8283801-2dbf-4a00-a4d5-79362437f797" />
+</div>
 
-<h1 align="left">Hi everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst  <img src="https://giphy.com/gifs/ita-forza-italia-viva-litalia-UVNJ7x7Ul3wIbjIhkA"></a></h1>
+###
+
+<h1 align="left">Hi GitHub Fans! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst </h1>
 
 ###
 
@@ -47,15 +51,20 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/francescozaratti/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="Francescozaratti7@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/FrancescoZaratti/FrancescoZaratti/output/snake.svg" alt="Snake animation" />
 
 ###
 
