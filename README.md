@@ -1,8 +1,8 @@
 <div align="center">
-  <img height="200" ![Video senza titolo](https://github.com/user-attachments/assets/f3b4daa2-1ece-4822-986f-0fe11bf6300a) />
+  <img height="200" src=/>
 </div>
 
-
+![Video senza titolo](https://github.com/user-attachments/assets/f3b4daa2-1ece-4822-986f-0fe11bf6300a) 
 ###
 
 <h1 align="left">Hi GitHub Fans! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst </h1>
