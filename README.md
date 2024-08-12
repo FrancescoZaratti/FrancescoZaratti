@@ -2,6 +2,10 @@
   <img height="200" src="https://github.com/user-attachments/assets/e8283801-2dbf-4a00-a4d5-79362437f797" />
 </div>
 
+
+https://github.com/user-attachments/assets/815616b5-938e-466c-95de-713f1daec208
+
+
 ###
 
 <h1 align="left">Hi GitHub Fans! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst </h1>
