@@ -6,9 +6,9 @@
 
 <h1 align="center">🧑🏻‍💻 Hi GitHub Fans! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div align="center">
-**My name is Francesco and I'm a Data Analyst** 🇮🇹🍕
-</div>
+<h2 align="center">
+My name is Francesco and I'm a Data Analyst 🇮🇹🍕
+</h2>
 
 ###
 
