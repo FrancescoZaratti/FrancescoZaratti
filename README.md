@@ -18,18 +18,14 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=FrancescoZaratti.FrancescoZaratti&"  />
-</div>
-
-###
-
 <h1 align="center">🧑🏻‍💻 Hi GitHub Fans! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <br></h1>
 
 ###
 
 <br clear="both">
-<h2 align="left">🧑🏻‍💼 Francesco Zaratti, Data Analyst from Italy 🇮🇹 🍕</h2>
+<p align="left">🧑🏻‍💼 Francesco Zaratti, Data Analyst from Italy 🇮🇹 🍕</p>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
