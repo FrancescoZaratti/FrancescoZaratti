@@ -4,8 +4,9 @@
 
 ###
 
-<h1 align="left">Hi GitHub Fans! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> My name is Francesco and I'm a Data Analyst </h1>
+<h1 align="left">Hi GitHub Fans! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+My name is Francesco and I'm a Data Analyst
 ###
 
 <div align="left">
