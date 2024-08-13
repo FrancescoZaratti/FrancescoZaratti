@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=d49147&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"  />
   </a>
     <a href="https://opensea.io/Cescooo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=twitter&label=&color=247bad&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="OpenSea"  />
+    <img src="https://img.shields.io/static/v1?message=OpenSea&logo=twitter&label=&color=247bad&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="OpenSea"  />
   </a>
 </div>
 
