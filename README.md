@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src=[Video senza titolo](https://github.com/user-attachments/assets/f3b4daa2-1ece-4822-986f-0fe11bf6300a)>
+  <img height="200" src="https://github.com/user-attachments/assets/f3b4daa2-1ece-4822-986f-0fe11bf6300a">
 </div>
 
 ###
