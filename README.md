@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">🧑🏻‍💼 **Francesco Zaratti, Data Analyst from Italy** 🇮🇹 🍕</p>
+🧑🏻‍💼 **Francesco Zaratti, Data Analyst from Italy** 🇮🇹 🍕
 
 ###
 
