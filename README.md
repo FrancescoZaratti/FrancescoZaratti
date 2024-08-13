@@ -28,11 +28,7 @@
 
 ###
 
-<h3 align="left">🧑🏻‍💼 About Me</h3>
-
-###
-
-<p align="center">Francesco Zaratti, Data Analyst from Italy 🇮🇹 🍕</p>
+<h2 align="left">🧑🏻‍💼 Francesco Zaratti, Data Analyst from Italy 🇮🇹 🍕</h3>
 
 ###
 
